@@ -1,5 +1,10 @@
 # V_Camp Desafio Edabit
 
+## Participante
+
+Duyllyan Almeida de Carvalho  
+![Linkedin](https://img.shields.io/badge/-Duyllyan-blue?style=flat-square&logo=Linkedin&logoColor=white)
+
 ## Descrição
 
 Repositório criado para resolução do desafio da V_Camp da Valtech.
