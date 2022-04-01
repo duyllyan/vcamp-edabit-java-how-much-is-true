@@ -3,7 +3,7 @@
 ## Participante
 
 Duyllyan Almeida de Carvalho  
-![Linkedin](https://img.shields.io/badge/-Duyllyan-blue?style=flat-square&logo=Linkedin&logoColor=white)
+https://www.linkedin.com/in/duyllyan/
 
 ## Descrição
 
